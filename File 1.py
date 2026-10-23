@@ -1,4 +1,3 @@
-# PRAKTIKUM 1: Tipe Data Dasar
 nama = "Azmi"
 umur = 19
 berat = 54.5
